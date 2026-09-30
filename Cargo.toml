@@ -1,10 +1,12 @@
 [package]
 name = "document-store"
 version = "0.1.0"
-description = "A Rust library for Document Store"
+description = "Document Store — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/document-store"
+repository = "https://github.com/SuperInstance/document-store"
 edition = "2021"
+
+keywords = ["document-store"]
 
 [dependencies]
 serde_json = "1"
